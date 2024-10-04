@@ -1,7 +1,3 @@
-Aqui está a versão reorganizada com a instalação do Node-RED no estilo de um README:
-
----
-
 # FE-Club_IoT
 
 ## Introdução
