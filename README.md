@@ -1,4 +1,11 @@
-# FE-Club_IoT
+# Projeto IOT (Sensores DHT e LDR)
+
+Esse projeto foi desenvolvido para a entrega do Checkpoint 5 de Edge Computing - 2024 1ES da FIAP.
+
+- Guilherme Oliveira Santana de Almeida 555180
+- Vinicius Monteiro Araujo 555088
+- Rafael Duarte de Freitas 558644
+- Rafael Gaspar Bragança Martins 557228
 
 ## Introdução
 
@@ -21,7 +28,7 @@ O objetivo deste projeto é utilizar sensores avançados para medir a temperatur
 
 ### Como Funciona?
 
-Atualmente, as equipes de Fórmula E determinam o desgaste dos pneus com base na velocidade do carro e na temperatura do solo em contato com os pneus. Nosso projeto aprimora essa metodologia utilizando dois tipos de sensores:
+Os sensores abaixo são responsáveis por medir temperatura, umidade e nível de luminosidade em ambientes específicos. Eles são conectados e possuem suas informações coletadas em tempo real para visualização dos usuários interessados.
 
 - **Sensor de Temperatura e Umidade (DHT22):** Identifica a temperatura e a umidade relativa do ar.
 - **Sensor de Luminosidade (LDR):** Mede o nível de luminosidade do ambiente.
@@ -174,11 +181,3 @@ Segue abaixo o fluxo do Node-red utilizado:
 
 Você pode testar o projeto de forma virtual utilizando a plataforma **Wokwi**. Acesse o projeto no [link do Wokwi](https://wokwi.com/projects/410681368165061633).
 
----
-
-Esse projeto foi desenvolvido para a entrega da Sprint 3 do Challenge - 2024 1ES da FIAP.
-
-- Guilherme Oliveira Santana de Almeida 555180
-- Vinicius Monteiro Araujo 555088
-- Rafael Duarte de Freitas 558644
-- Rafael Gaspar Bragança Martins 557228
