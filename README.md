@@ -1,4 +1,4 @@
-# Projeto IOT (Sensores DHT e LDR)
+# Projeto IOT (Sensores DHT e LDR - Vinheria Agnello)
 
 Esse projeto foi desenvolvido para a entrega do Checkpoint 5 de Edge Computing - 2024 1ES da FIAP.
 
@@ -24,7 +24,7 @@ A Internet das Coisas (IoT) refere-se à interconexão de dispositivos físicos,
 
 ## Descrição do Projeto
 
-O objetivo deste projeto é utilizar sensores avançados para medir a temperatura, umidade e luminosidade de um ambiente.
+O objetivo deste projeto é utilizar sensores avançados para medir a temperatura, umidade e luminosidade de um ambiente. Esse monitoramento é importante para garantir a correta conservação e mantimento dos vinhos da Vinheria Agnello.
 
 ### Como Funciona?
 
