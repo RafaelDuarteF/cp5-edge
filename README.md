@@ -177,6 +177,12 @@ Segue abaixo o fluxo do Node-red utilizado:
 
 ---
 
+Segue abaixo a imagem dos dashboards funcionando com os IoTs devidamente conectados nesse processo.
+
+![image](https://github.com/user-attachments/assets/8934fc47-5038-4f2e-ba6d-39530f99091d)
+
+---
+
 ### Configuração dos Componentes no Wokwi
 
 Você pode testar o projeto de forma virtual utilizando a plataforma **Wokwi**. Acesse o projeto no [link do Wokwi](https://wokwi.com/projects/410681368165061633).
