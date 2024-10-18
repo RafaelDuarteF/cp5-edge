@@ -3,7 +3,7 @@
 Esse projeto foi desenvolvido para a entrega do Checkpoint 5 de Edge Computing - 2024 1ES da FIAP.
 
 - Guilherme Oliveira Santana de Almeida 555180
-- Vinicius Monteiro Araujo 555088
+- Pedro Camacho 556831
 - Rafael Duarte de Freitas 558644
 - Rafael Gaspar Bragança Martins 557228
 
