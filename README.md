@@ -1,4 +1,4 @@
-# Projeto IOT (Sensores DHT e LDR - Vinheria Agnello)
+# Projeto IOT (Sensores DHT e LDR - Vinheria Agnello) - Checkpoint 6
 
 Esse projeto foi desenvolvido para a entrega do Checkpoint 5 de Edge Computing - 2024 1ES da FIAP.
 
